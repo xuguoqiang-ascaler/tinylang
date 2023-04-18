@@ -1,0 +1,8 @@
+build/
+build_llvm-12/
+llvm-12/
+llvm-project-back/
+build_tinylang/
+build_tinylang_1/
+build_tinylang_2/
+build_tinylang_3/
